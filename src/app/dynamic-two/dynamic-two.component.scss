@@ -1,0 +1,24 @@
+.zee{
+  font-size: 5rem;
+  background-color: rgb(32, 157, 230);
+  color: white;
+  padding: 0.3rem 1rem;
+}
+
+button {
+  display: inline-block;
+  padding: 12px 44px;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  background: linear-gradient(to bottom, #5a88ca, #366abd);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+button:hover {
+  background: linear-gradient(to bottom, #366abd, #5a88ca);
+}
